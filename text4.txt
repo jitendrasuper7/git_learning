@@ -1,3 +1,5 @@
 this is text 4 in branchA
 
 this is changes
+
+this is third line
